@@ -70,6 +70,9 @@ public class BankApp {
 
 		System.out.println("결과 : 예금이 성공되었습니다.");
 		
+		
+		
+		
 	}
 	
 	public static void withdraw() {
